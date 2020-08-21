@@ -1,0 +1,32 @@
+21/08/2020 J0sueTM
+
+1- Uma caixa contem bolas vermelhas, bolas verdes, bolas azuis, amarelas a brancas. Crie um programa que pegue a quantidade de bolas para cada cor, e mostre a quantidade minima de bolas que devem ser pegas para que no fim estejamos com no minimo uma de cada cor
+
+Exemplo
+
+Entrada
+
+6
+8
+10
+12
+15
+
+Saida
+
+47
+
+2- Um soldado quer comprar W bananas. Ele tem que pagar K reais pela primeira banana, 2K pela segunda, 3K pela terceira, e assim por diante. Ele tem N reais, quantos reais ele vai precisar pedir a seu amigo, caso nao seja suficiente para comprar suas bananas?
+
+Entrada: K, N, W
+
+Exemplo
+
+Entrada
+
+3 17 4
+
+Saida
+
+13
+
