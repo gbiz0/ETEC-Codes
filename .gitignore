@@ -1,6 +1,7 @@
 " .gitignore for everything but .cpp .c .py .java directories
 
 *
+!*.gitignore
 !*/
 !*.cpp
 !*.c
